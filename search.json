@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "docencia.html",
+    "href": "docencia.html",
+    "title": "Docencia",
+    "section": "",
+    "text": "Imparto varias asignaturas en la Escuela Técnica Superior de Ingeniería de Telecomunicaciones en la Universidad Politécnica de Cartagena. A continuación puede encontrar el material con licencia CC BY-NC-SA 4.0 que he preparado para mis alumnos."
+  },
+  {
+    "objectID": "docencia.html#fundamentos-de-inferencia.",
+    "href": "docencia.html#fundamentos-de-inferencia.",
+    "title": "Docencia",
+    "section": "Fundamentos de inferencia.",
+    "text": "Fundamentos de inferencia.\nSe trata de una asignatura de segundo curso del Grado en Ciencia e Ingeniería de Datos, un título interuniversitario impartido conjuntamente por la Universidad de Murcia y la Universidad Politécnica de Cartagena. Comparto esta asignatura con mi compañero Félix Belzunce de la UM, y hemos colaborado para la preparación de apuntes que publicamos en forma de un libro: Fundamentos de inferencia"
+  },
+  {
+    "objectID": "docencia.html#introducción-a-data-science",
+    "href": "docencia.html#introducción-a-data-science",
+    "title": "Docencia",
+    "section": "Introducción a Data Science",
+    "text": "Introducción a Data Science\nLlevo impartiendo esta asignatura optativa de cuarto del Grado en Ingeniería en Sistemas de Telecomunicación y del Grado en Ingeniería Telemática. Hace poco, he cambiado el lenguaje usado en la asignatura a Python y he preparado unidades de aprendizaje que permiten el estudio autónomo de la materia: enlace al repositorio. * [ ] ## Estadística Asignatura de primer curso del Grado en Ingeniería en Sistemas de Telecomunicación y del Grado en Ingeniería Telemática."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Mathieu Kessler",
+    "section": "",
+    "text": "Soy profesor en la Universidad Politécnica de Cartagena, perfil.\nEste sitio ha sido construido usando Quarto, puede encontrar más información sobre sitios web en Quarto en https://quarto.org/docs/websites."
+  }
+]
